@@ -1,3 +1,4 @@
-Este proyecto crea un web con jQuery con un test.
-El test se genera a partir de un fichero xml con las preguntas las opciones y la respuesta correcta.
-El xml se genera a partir de un script en pyton
+Este proyecto crea una web con jQuery con un test.
+El proyecto surge para estudiar los test de una asignatura de ingenieria del software.
+El test se genera a partir de un fichero xml con las preguntas, las opciones y la respuesta correcta.
+El xml se genera a partir de un script en python.
