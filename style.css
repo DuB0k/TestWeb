@@ -1,0 +1,26 @@
+body { 
+	text-align:center;
+}
+.incorrecta{
+	background-color: red;
+}
+.correcta{
+	background-color: green;
+}
+.pregunta{
+	margin:0 auto 0 auto; 
+	width:900px;
+	text-align:left;
+	border-style: solid;
+	border-width:1px;
+	padding-bottom: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    text-align: left;
+}
+.enunciado{
+
+}
+.solu{
+	display: none;
+}

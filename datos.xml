@@ -1,0 +1,1827 @@
+<preguntas>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Un diagrama es la representación gráfica de un conjunto de elementos interconectados, una vista parcial de un modelo. ¿Cuál de estas opciones es correcta?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Un modelo sólo es una colección de diagramas.
+			</opcion>
+			<opcion>
+			Un modelo contiene especificaciones textuales esenciales.
+			</opcion>
+			<opcion>
+			Un modelo puede contener elementos no representados en un diagrama.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Qué afirmación respecto a la redundancia es correcta?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Es imposible detectar en revisiones de grupo.
+			</opcion>
+			<opcion>
+			Aporta consistencia al texto.
+			</opcion>
+			<opcion>
+			Su aparición puede provocar que sea necesario retrabajo.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		La extensibilidad es un criterio para la selección de  una arquitectura. ¿Cuál de estas características NO corresponde a la extensibilidad?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requiere invertir tiempo en el diseño.
+			</opcion>
+			<opcion>
+			Es fácil de coordinar con el criterio de simplicidad.
+			</opcion>
+			<opcion>
+			Hace más complejo el diseño.
+			</opcion>
+			<opcion>
+			Aporta mayor grado de abstracción.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuáles son todos los pasos por los que puede pasar un requisito? No hay paso para requisito modificado, pasan directamente al siguiente paso.
+		</enunciado>
+		<opciones>
+			<opcion>
+			Propuesto, Validado, Cancelado, Implementado, Verificado.
+			</opcion>
+			<opcion>
+			Diseñado, Propuesto, Cancelado, Implementado, Verificado.
+			</opcion>
+			<opcion>
+			Diseñado, Propuesto, Cancelado, Implementado, Terminado.
+			</opcion>
+			<opcion>
+			Propuesto, Cancelado, Implementado, Verificado, Terminado.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		La descomposición modular debe tener las siguientes características:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Máxima cohesión y acoplamiento, diseño fácil para el cambio o la extensión y minimizar dependencias.
+			</opcion>
+			<opcion>
+			Máxima cohesión y mínimo acoplamiento, diseño fácil para el cambio o la extensión y minimizar dependencias.
+			</opcion>
+			<opcion>
+			Máxima cohesión y mínimo acoplamiento, diseño rígido para evitar imprecisiones y minimizar dependencias.
+			</opcion>
+			<opcion>
+			Mínima cohesión y acoplamiento, diseño rígido para evitar imprecisiones y minimizar dependencias.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuáles son los tipos de requisitos del software? (Su clasificación).
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisitos del usuario y del software.
+			</opcion>
+			<opcion>
+			Requisitos funcionales y no funcionales.
+			</opcion>
+			<opcion>
+			Requisitos negativos, funcionales y no funcionales.
+			</opcion>
+			<opcion>
+			Requisitos de interfaz, funcionales y no funcionales.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuál de los siguientes tipos de requisitos no forma parte de la clasificación de requisitos del software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisitos negativos.
+			</opcion>
+			<opcion>
+			Requisitos positivos.
+			</opcion>
+			<opcion>
+			Requisitos funcionales.
+			</opcion>
+			<opcion>
+			Requisitos no funcionales.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuáles son los criterios para la selección de una arquitectura?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Extensibilidad, Modificabilidad, Simplicidad, Eficiencia.
+			</opcion>
+			<opcion>
+			Extensibilidad, Modificabilidad, Complejidad, Eficiencia.
+			</opcion>
+			<opcion>
+			Extensibilidad, Modificabilidad, Simplicidad, Eficacia.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes afirmaciones no está relacionada con el Modelado Conceptual?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Es una vista gráfica de la información contenida en los requisitos.
+			</opcion>
+			<opcion>
+			Representa atributos, operaciones y asociaciones entre clases.
+			</opcion>
+			<opcion>
+			En él se representan todas las posibles funcionalidades del proyecto que representa.
+			</opcion>
+			<opcion>
+			Podemos extraer información de la jerarquía de clases que contempla nuestro proyecto.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		En relación a la decisión entre atributo y asociación, seleccione la respuesta correcta:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Seleccionaría atributo, puesto que aporta propiedad al objeto.
+			</opcion>
+			<opcion>
+			Seleccionaría asociación.
+			</opcion>
+			<opcion>
+			Seleccionaría de entre atributo y asociación la opción que resultase en un modelo más visual.
+			</opcion>
+			<opcion>
+			Seleccionaría ambas opciones para afianzar la información en el modelo.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		En relación con la redacción del requisito, de las siguientes afirmaciones, diga cuál es verdadera.
+		</enunciado>
+		<opciones>
+			<opcion>
+			Los requisitos podrán atomizarse mediante las correspondientes herramientas especializadas.
+			</opcion>
+			<opcion>
+			Se recomienda alternar entre las formas activa y pasiva para dotar de legibilidad a los requisitos.
+			</opcion>
+			<opcion>
+			Es necesaria la sustitución por pronombres de manera reiterada para facilitar la comprensibilidad y evitar recargar los requisitos.
+			</opcion>
+			<opcion>
+			Puesto que el requisito se traza previa implementación de la aplicación, no es posible el uso del imperativo en la redacción del mismo ya que hasta que la aplicación no se ha completado no se sabrá si se habrá cumplido o no.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		En relación al modelado en UML, las asociaciones...
+		</enunciado>
+		<opciones>
+			<opcion>
+			Son siempre simétricas, y por tanto los roles que hay entre las clases son intercambiables.
+			</opcion>
+			<opcion>
+			Son siempre asimétricas, ya que equivalen a pares ordenados, y por lo tanto los roles entre las clases no son intercambiables.
+			</opcion>
+			<opcion>
+			Si son reflexivas, pueden ser simétricas.
+			</opcion>
+			<opcion>
+			Las asociaciones asimétricas sólo pueden ser unidireccionales.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cómo pueden ser los valores de los atributos en una clase?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Fijos e inmutables.
+			</opcion>
+			<opcion>
+			Inmutables.
+			</opcion>
+			<opcion>
+			Fijos y variables.
+			</opcion>
+			<opcion>
+			Variables.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Qué tipos de requisitos existen?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Capacidad y funcionales.
+			</opcion>
+			<opcion>
+			No funcionales.
+			</opcion>
+			<opcion>
+			Capacidad y restricción.
+			</opcion>
+			<opcion>
+			Ninguno de los anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál es el objetivo de los requisitos de software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Ofrecer un entorno operacional.
+			</opcion>
+			<opcion>
+			Planteamiento y modelado del problema.
+			</opcion>
+			<opcion>
+			Refinamiento del problema y análisis de requisitos.
+			</opcion>
+			<opcion>
+			Conseguir la perspectiva del producto.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cómo se denominan también los requisitos "no funcionales"?
+		</enunciado>
+		<opciones>
+			<opcion>
+			De capacidad.
+			</opcion>
+			<opcion>
+			De implementación.
+			</opcion>
+			<opcion>
+			De restricción.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuál de estas opciones no es una propiedad deseable de los requisitos software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Tamaño adecuado.
+			</opcion>
+			<opcion>
+			Estabilidad.
+			</opcion>
+			<opcion>
+			Completitud.
+			</opcion>
+			<opcion>
+			Claridad.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Para qué más son útiles (especialmente) las pre-condiciones y post-condiciones a parte de para documentar el diseño?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Para indicar un error en el cliente.
+			</opcion>
+			<opcion>
+			Para la depuración del software.
+			</opcion>
+			<opcion>
+			Para indicar un error en el proveedor.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de estas vistas no corresponde al modelo de Philippe Kruchten?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Vista lógica.
+			</opcion>
+			<opcion>
+			Vista de proceso.
+			</opcion>
+			<opcion>
+			Vista estática.
+			</opcion>
+			<opcion>
+			Vista de desarrollo.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Qué formas distintas tienen un componente para relacionarse con una interfaz?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Interface realization y Interface usage.
+			</opcion>
+			<opcion>
+			Interface usage y Interface logic.
+			</opcion>
+			<opcion>
+			Interface usage y Interface style.
+			</opcion>
+			<opcion>
+			Interface realization y Interface wiring.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		Las siglas CIM significan…
+		</enunciado>
+		<opciones>
+			<opcion>
+			Computer Intelligent Model.
+			</opcion>
+			<opcion>
+			Computer Interface Model.
+			</opcion>
+			<opcion>
+			Combination Intelligent Model.
+			</opcion>
+			<opcion>
+			Computation Independent Model.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de estas propiedades NO  se corresponde con una especificación de requisitos?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Consistente.
+			</opcion>
+			<opcion>
+			Verificable.
+			</opcion>
+			<opcion>
+			Inalterable.
+			</opcion>
+			<opcion>
+			Clara y no ambigua.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuál de los siguientes métodos NO sirve para organizar los requisitos de software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Matriz de consistencia.
+			</opcion>
+			<opcion>
+			Matriz de adyacencia.
+			</opcion>
+			<opcion>
+			Matriz de trazabilidad.
+			</opcion>
+			<opcion>
+			Anidamiento de requisitos
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué es una interfaz en el contexto de la asignatura?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Medio con que el usuario puede comunicarse con una máquina, un equipo o una computadora.
+			</opcion>
+			<opcion>
+			Conjunto de operaciones que ofrecen un servicio coherente.
+			</opcion>
+			<opcion>
+			Conexión física y funcional entre dos sistemas o dispositivos de cualquier tipo dando una comunicación entre distintos niveles.
+			</opcion>
+			<opcion>
+			Conjunto de atributos y operaciones que ofrecen un servicio coherente.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Qué fases presenta la ingeniería de requisitos?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Captura y especificación.
+			</opcion>
+			<opcion>
+			Modelado y especificación.
+			</opcion>
+			<opcion>
+			Captura y análisis.
+			</opcion>
+			<opcion>
+			Modelado, captura y especificación.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Dado el siguiente requisito: "El usuario debe ser capaz de crear un nuevo contacto en la agenda". Especificar de qué tipo es:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisito del sistema.
+			</opcion>
+			<opcion>
+			Requisito no funcional.
+			</opcion>
+			<opcion>
+			Requisito funcional.
+			</opcion>
+			<opcion>
+			Requisito negativo.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Dado los siguientes requisitos, "El usuario debe ser capaz de crear un nuevo contacto en la agenda" y "El usuario debe ser capaz de borrar un contacto en la agenda". Decir si estos dos requisitos son:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Conflictivos, entre ellos existen incongruencias.
+			</opcion>
+			<opcion>
+			Ambiguos, estos requisitos no son lo suficientemente específicos.
+			</opcion>
+			<opcion>
+			Consistentes entres sí, no presentan incoherencias, acoplamientos ni redundancias.
+			</opcion>
+			<opcion>
+			Redundantes, ambas repiten información.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cómo debería ser una especificación de requisitos?
+		</enunciado>
+		<opciones>
+			<opcion>
+			La especificación de requisitos no tiene que cumplir ningún criterio.
+			</opcion>
+			<opcion>
+			Larga y con terminología técnica.
+			</opcion>
+			<opcion>
+			Completa, consistente, correcta, modificable, verificable, trazable, clara y no ambigua.
+			</opcion>
+			<opcion>
+			Con una presentación elegante.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuáles son los criterios clásicos para la selección de una arquitectura?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Extensibilidad, rapidez, tecnología, simplicidad.
+			</opcion>
+			<opcion>
+			Extensibilidad, modificabilidad, simplicidad, eficiencia.
+			</opcion>
+			<opcion>
+			Extensibilidad, modificabilidad, tecnología, simplicidad.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes es una vista del modelo de 4+1 vistas de Kruchten?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Vista conceptual.
+			</opcion>
+			<opcion>
+			Vista de desarrollo.
+			</opcion>
+			<opcion>
+			Vista de ejecución.
+			</opcion>
+			<opcion>
+			Todas las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué representa el modelo conceptual?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Mundo real.
+			</opcion>
+			<opcion>
+			Vista conceptual del sistema, abarcando aspectos estáticos y dinámicos
+			</opcion>
+			<opcion>
+			Universo del discurso
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		¿Qué tipo de requisitos hay?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Funcionales.
+			</opcion>
+			<opcion>
+			No funcionales.
+			</opcion>
+			<opcion>
+			Funcionales y no funcionales.
+			</opcion>
+			<opcion>
+			Funcionales, no funcionales y negativos.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Sobre las métricas de calidad, ¿Qué debemos medir?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Propiedades deseables e indicadores medibles
+			</opcion>
+			<opcion>
+			Indicadores analíticos y relacionales
+			</opcion>
+			<opcion>
+			Propiedades deseables e indicadores analíticos.
+			</opcion>
+			<opcion>
+			Indicadores morfológicos y léxicos.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Indique cuál de los siguientes requisitos está bien redactado.
+		</enunciado>
+		<opciones>
+			<opcion>
+			El administrador deberá guardar, borrar y modificar a cada usuario.
+			</opcion>
+			<opcion>
+			El usuario debería escribir su correo electrónico dos veces.
+			</opcion>
+			<opcion>
+			El administrador deberá ser capaz de borrar a un usuario del sistema.
+			</opcion>
+			<opcion>
+			El usuario deberá acceder a la tabla de base de datos para guardar el contacto.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Indique la opción verdadera.
+		</enunciado>
+		<opciones>
+			<opcion>
+			La realización puede entenderse como una "generalización débil": se hereda la interfaz, pero no la implementación
+			</opcion>
+			<opcion>
+			La generalización permite disminuir el nivel de abstracción.
+			</opcion>
+			<opcion>
+			El problema de la realización es que aumenta la reutilización y la dependencia.
+			</opcion>
+			<opcion>
+			La realización puede entenderse como una "generalización débil": se hereda la implementación, pero no la interfaz.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Indique cuál de las siguientes propiedades individuales de un requisito son deseables.
+		</enunciado>
+		<opciones>
+			<opcion>
+			Completitud y consistencia.
+			</opcion>
+			<opcion>
+			Tamaño adecuado, claridad, comprobabilidad, condiciones de error.
+			</opcion>
+			<opcion>
+			Automáticos, obligatorios y opcionales.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuál es el factor más importante de éxito en un proyecto?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Los requisitos.
+			</opcion>
+			<opcion>
+			Las pruebas.
+			</opcion>
+			<opcion>
+			La programación.
+			</opcion>
+			<opcion>
+			El diseño.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		Suponga un documento de requisitos para el desarrollo de una página web desde cero. El cliente solicita que se respeten los estándares web (aunque no especifica cuáles). Si en dicho documento hay un requisito cuya descripción es "La página web debe respetar el estándar W3C de uso multimedia", ¿qué tipo de requisito será este?
+		</enunciado>
+		<opciones>
+			<opcion>
+			De usuario de capacidad.
+			</opcion>
+			<opcion>
+			De usuario de restricción.
+			</opcion>
+			<opcion>
+			De software funcional.
+			</opcion>
+			<opcion>
+			De software no funcional.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuántos tipos de requisitos existen?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Cuatro: negativos, funcionales, no funcionales, estructurados.
+			</opcion>
+			<opcion>
+			Tres: negativos, funcionales, no funcionales.
+			</opcion>
+			<opcion>
+			Dos: funcionales, no funcionales.
+			</opcion>
+			<opcion>
+			Uno: funcionales
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Quién es el cliente?
+		</enunciado>
+		<opciones>
+			<opcion>
+			El programador de la aplicación.
+			</opcion>
+			<opcion>
+			El jefe de departamento.
+			</opcion>
+			<opcion>
+			La persona que te contrata.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes opciones no es un tipo de requisito del software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisito funcional.
+			</opcion>
+			<opcion>
+			Requisito negativo.
+			</opcion>
+			<opcion>
+			Requisito parcial.
+			</opcion>
+			<opcion>
+			Requisito no funcional.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué representa el modelo conceptual?
+		</enunciado>
+		<opciones>
+			<opcion>
+			El mundo real o "universo del discurso".
+			</opcion>
+			<opcion>
+			Vista conceptual del sistema: conceptos que debe implementar el sistema.
+			</opcion>
+			<opcion>
+			La implementación o "vista tecnológica".
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuál de de las siguientes respuestas se asocia a una especificación inteligente de requisitos?
+		</enunciado>
+		<opciones>
+			<opcion>
+			SMART (simple, medible, alineado, realista, limitado en tiempo).
+			</opcion>
+			<opcion>
+			SMART (específico, medible, alineado, realista, limitado en tiempo).
+			</opcion>
+			<opcion>
+			SMART (sencillo, monótono, alineado, realista, taxativo).
+			</opcion>
+			<opcion>
+			CNART (concreto, necesario, alineado, realista, taxativo).
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué es una asociación reflexiva?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Aquella en la que los dos extremos de la asociación están unidos a distintas clases.
+			</opcion>
+			<opcion>
+			Aquella en la que los dos extremos de la asociación están unidos a la misma clase.
+			</opcion>
+			<opcion>
+			Aquella en la que los dos extremos de la asociación están unidos a dos instancias de dos clases distintas.
+			</opcion>
+			<opcion>
+			Aquella en la que una segunda clase interactúa con una primera a través de una tercera que realiza la acción de reflexión.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes afirmaciones es la correcta?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Un sistema es una colección de modelos organizados para cumplir una finalidad concreta. Un sistema no puede estar dividido en subsistemas.
+			</opcion>
+			<opcion>
+			Un modelo es una abstracción de un sistema, es decir, una simplificación (completa y consistente) del sistema real, que sirve para comprenderlo mejor.
+			</opcion>
+			<opcion>
+			Un diagrama es la representación textual de un conjunto de elementos interconectados, una vista parcial de un sistema.
+			</opcion>
+			<opcion>
+			Un modelo es la representación gráfica de un conjunto de elementos interconectados, una vista parcial de un diagrama.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		La ingeniería del software es:
+		</enunciado>
+		<opciones>
+			<opcion>
+			La aplicación sistemática de conocimientos, métodos y experiencias científicas y tecnológicas al diseño, implementación, pruebas y documentación de software. 
+			</opcion>
+			<opcion>
+			Es el desarrollo sistemático de los requisitos a través de un proceso iterativo y cooperativo en el que se analiza el problema.
+			</opcion>
+			<opcion>
+			Una condición o capacidad que un usuario necesita.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		La tabla de consistencia de requisitos de software, permite representar:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Relación entre requisitos de software funcionales y no funcionales. 
+			</opcion>
+			<opcion>
+			Conflictos, redundancias, acoplamientos e independencias.
+			</opcion>
+			<opcion>
+			Trazabilidad de los requisitos de software.
+			</opcion>
+			<opcion>
+			Relaciones entre los requisitos y el modelo del sistema 
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Puede definirse UML como:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Un lenguaje gráfico de modelado centrado en el campo de la ingeniería del software. 
+			</opcion>
+			<opcion>
+			Un estándar que define las pautas a seguir en el proceso de ingeniería de requisitos.
+			</opcion>
+			<opcion>
+			Un lenguaje de modelado que permite describir un producto software mediante diagramas, descripciones textuales y fragmentos de código.
+			</opcion>
+			<opcion>
+			Todas las anteriores son ciertas.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Los requisitos de restricción (no funcionales) son:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Restricciones impuestas sobre la manera en que el problema es resuelto o el objetivo es alcanzado.
+			</opcion>
+			<opcion>
+			Funciones y operaciones requeridas para resolver un problema o alcanzar un objetivo.
+			</opcion>
+			<opcion>
+			Restricciones requeridas para resolver un problema o objetivo.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Qué es un stakeholder?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Es un potencial cliente de una empresa.
+			</opcion>
+			<opcion>
+			Es un miembro del equipo de desarrollo encargado de validar los requisitos de usuario.
+			</opcion>
+			<opcion>
+			Es una parte interesada considerada como un elemento esencial en la planificación estratégica de los negocios.
+			</opcion>
+			<opcion>
+			Es una empresa encargada de generar un documento de requisitos de un proyecto.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Entre los criterios positivos a la hora de seleccionar una arquitectura están:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Alto coste, extensibilidad y simplicidad.
+			</opcion>
+			<opcion>
+			Eficiencia, rigidez y complejidad.
+			</opcion>
+			<opcion>
+			Simplicidad, eficiencia y modificabilidad.
+			</opcion>
+			<opcion>
+			Alto coste, rigidez y complejidad.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuál es el factor más importante de éxito en un proyecto?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Los requisitos.
+			</opcion>
+			<opcion>
+			Las pruebas.
+			</opcion>
+			<opcion>
+			La programación.
+			</opcion>
+			<opcion>
+			El diseño.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Redacción del requisito: 
+		</enunciado>
+		<opciones>
+			<opcion>
+			El modo verbal a emplear debe ser la pasiva.
+			</opcion>
+			<opcion>
+			Se deben evitar las expresiones ambiguas.
+			</opcion>
+			<opcion>
+			Se recomienda incluir términos que denoten diseño.
+			</opcion>
+			<opcion>
+			Se recomienda hacer uso de pronombres.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Señale la respuesta correcta sobre la diferencia entre los modelos especificativo y descriptivo. 
+		</enunciado>
+		<opciones>
+			<opcion>
+			El modelo especificativo se utiliza para la ingeniería inversa (reverse engineering), mientras que el descriptivo se utiliza en la ingeniería hacia delante (forward engineering).
+			</opcion>
+			<opcion>
+			El modelo especificativo se utiliza para anticipar o especificar el sistema de software a construir, mientras que el modelo descriptivo se utiliza para  describir algo que ya existe.
+			</opcion>
+			<opcion>
+			Ambos son nombres equivalentes, hacen referencia a un mismo concepto.
+			</opcion>
+			<opcion>
+			El modelo especificativo es igual al descriptivo, solo que con un mayor nivel de detalle.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Qué es una clase?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Representación estructural de algo que existe puede ser físico o imaginario.
+			</opcion>
+			<opcion>
+			Modelo conceptual de algo que no existe.
+			</opcion>
+			<opcion>
+			Conjunto patrones que comparten el mismo objeto.
+			</opcion>
+			<opcion>
+			Es una entidad relación de algo que existe puede ser físico o imaginario.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué es una instancia?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Atributo de la clase.
+			</opcion>
+			<opcion>
+			La variable de la clase.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+			<opcion>
+			Cada objeto que pertenece a varias clases.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Antes de hacer un caso de uso es necesario:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Saber las tareas de los actores involucrados en el dominio.
+			</opcion>
+			<opcion>
+			Tratar de expresar lo que el dominio debe hacer.
+			</opcion>
+			<opcion>
+			Tratar de entender los requerimientos del sistema Tratando de expresar lo que el sistema debe hacer.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Qué característica NO es imprescindible en la especificación de requisitos?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Completa.
+			</opcion>
+			<opcion>
+			Modificable.
+			</opcion>
+			<opcion>
+			Ambigua.
+			</opcion>
+			<opcion>
+			Verificable.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes afirmaciones relativas a asociaciones reflexivas NO se cumple?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Son simétricas.
+			</opcion>
+			<opcion>
+			Los enlaces  pueden conectar dos instancias diferentes de la misma clase.
+			</opcion>
+			<opcion>
+			Son recursivas.
+			</opcion>
+			<opcion>
+			Los nombres de rol son obligatorios.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		Seleccione la respuesta correcta:
+		</enunciado>
+		<opciones>
+			<opcion>
+			La arquitectura del software es la organización fundamental de un sistema encarnada en sus componentes, las relaciones entre ellos y con el entorno, y los principios que orientan su diseño y evolución.
+			</opcion>
+			<opcion>
+			La arquitectura del software de un programa es la estructura que contienen componentes de software, las propiedades externamente visibles de dichos componentes y las relaciones entre ellos.
+			</opcion>
+			<opcion>
+			Ninguna de las afirmaciones anteriores son correctas.
+			</opcion>
+			<opcion>
+			Las dos afirmaciones son ciertas.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Elige la opción correcta:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisito es una condición o capacidad que un usuario necesita y que debe poseer un sistema y tiene que tener una representación documentada de la condición o capacidad.
+			</opcion>
+			<opcion>
+			Los podemos clasificar como funcionales, no funcionales y negativos.
+			</opcion>
+			<opcion>
+			Las dos afirmaciones son falsas
+			</opcion>
+			<opcion>
+			Las dos afirmaciones son verdades
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a                                                    
+		</solucion>
+		<enunciado>
+		En un diagrama la siguiente relación que significa A->B
+		</enunciado>
+		<opciones>
+			<opcion>
+			A depende de B
+			</opcion>
+			<opcion>
+			B depende de A
+			</opcion>
+			<opcion>
+			No existe relación
+			</opcion>
+			<opcion>
+			En un diagrama no puede haber relaciones
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes afirmaciones es correcta respecto a la Ingeniería de Requisitos en el contexto del proyecto?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Los requisitos no tienen valor contractual.
+			</opcion>
+			<opcion>
+			Los requisitos son posteriores al estudio de viabilidad.
+			</opcion>
+			<opcion>
+			La obtención de requisitos es independiente de la planificación del proyecto.
+			</opcion>
+			<opcion>
+			Los requisitos pueden estar sujetos a normas de propiedad intelectual.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué caracteriza a los requisitos no funcionales?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Se denominan no funcionales porque no requieren operacionalización.
+			</opcion>
+			<opcion>
+			Cortan transversalmente a los requisitos funcionales.
+			</opcion>
+			<opcion>
+			La medida de satisfacción es clara, por eso precisamente se pueden describir.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores es cierta.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes relaciones entre vistas es correcta?
+		</enunciado>
+		<opciones>
+			<opcion>
+			V. Lógica con V. de Proceso: descomponer en subsistemas de clases estrechamente relacionadas
+			</opcion>
+			<opcion>
+			V. Lógica con V. de Desarrollo: identificar las clases que tendrán un hilo de control propio.
+			</opcion>
+			<opcion>
+			V. de Proceso y V. de Desarrollo con V. Física: tener en cuenta los requisitos no funcionales de la vista física.
+			</opcion>
+			<opcion>
+			V. de los casos de uso con V. Física: tener en cuenta los requisitos no funcionales de la vista física.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuáles son las propiedades deseables del modelo?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Abstracto, predictivo, comprensible y barato.
+			</opcion>
+			<opcion>
+			Comprensible, preciso, predictivo y caro.
+			</opcion>
+			<opcion>
+			Comprensible, preciso, predictivo y barato.
+			</opcion>
+			<opcion>
+			Abstracto, predictivo, comprensible y caro.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Cuáles son los requisitos clásicos para la selección de una arquitectura?:
+		</enunciado>
+		<opciones>
+			<opcion>
+			extensibilidad, modificabilidad, simplicidad y eficiencia.
+			</opcion>
+			<opcion>
+			productividad, modificabilidad, simplicidad y usabilidad.
+			</opcion>
+			<opcion>
+			extensibilidad, eficiencia, modificabilidad y complejidad.
+			</opcion>
+			<opcion>
+			productividad, modificabilidad, complejidad y eficiencia.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Marca la opción verdadera:
+		</enunciado>
+		<opciones>
+			<opcion>
+			La audiencia de los Requisitos del Software es principalmente: el desarrollador
+			</opcion>
+			<opcion>
+			Las fuentes de los Requisitos del Usuario son: usuario/cliente y analista
+			</opcion>
+			<opcion>
+			El objetivo principal de los Requisitos del Software es el planteamiento del problema.
+			</opcion>
+			<opcion>
+			Un objetivo de los Requisitos del Usuario es el análisis de los requisitos.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Dentro del modelo de 4+1 vistas (Philippe Kruchten) la relación entre la vista lógica y la vista de desarrollo trata de:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Identificar las clases que tendrán un hilo de control propio.
+			</opcion>
+			<opcion>
+			Minimizar dependencias.
+			</opcion>
+			<opcion>
+			Maximizar dependencias.
+			</opcion>
+			<opcion>
+			Tener en cuenta los requisitos no funcionales de la vista física.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		Sobre el uso de pre- y post- condiciones, señale la respuesta INCORRECTA:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Nos indican el efecto que puede percibir el cliente, siendo puramente declarativas.
+			</opcion>
+			<opcion>
+			Tienen especial utilidad en la depuración del software.
+			</opcion>
+			<opcion>
+			En ciertas circunstancias se puede omitir la comprobación de las postcondiciones.
+			</opcion>
+			<opcion>
+			Si no se cumple una precondición indica un error en el proveedor.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		El prototipado nos permite:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Añadir todas las funcionalidades al sistema.
+			</opcion>
+			<opcion>
+			Implementar una primera versión completa, segura y fiable del proyecto.
+			</opcion>
+			<opcion>
+			Extraer requisitos, ensayar soluciones y eliminar partes arriesgadas.
+			</opcion>
+			<opcion>
+			Reducir los costes, siendo una parte obligatoria en todo proyecto de software.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		En el modelo conceptual, la clase "lista de la compra" está relacionada con otra clase "artículo". Sabiendo que la "lista de la compra" está formada por artículos y que si borramos la lista, siguen existiendo los artículos.¿ Qué tipo de relación mantienen estas 2 clases?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Agregación.
+			</opcion>
+			<opcion>
+			Composición.
+			</opcion>
+			<opcion>
+			Herencia.
+			</opcion>
+			<opcion>
+			Asociación.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		Un buen documento de requisitos debe ser:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Completo, correcto y adecuado.
+			</opcion>
+			<opcion>
+			Completo, bonito  y consistente.
+			</opcion>
+			<opcion>
+			Consistente, completo y correcto.
+			</opcion>
+			<opcion>
+			Legible, fácil y estructurado.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Tenemos una aplicación, la cual por debajo existe una base de datos donde se almacena la información. Esta base de datos está controlada por personal de mantenimiento desde un programa gestor de base de datos externo a esta aplicación. Si tenemos que hacer un documento de requisitos, ¿Hay que tener tanto al administrador como al usuario normal en cuenta a la hora de realizar el documento?:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Hay que tener en cuenta a ambos, y deben aparecer sus correspondientes clases en los diagramas del documento.
+			</opcion>
+			<opcion>
+			El usuario si debe aparecer, pero el administrador no, ya que el usuario es un actor de la aplicación, y el administrador al usar un programa exterior no.
+			</opcion>
+			<opcion>
+			El usuario no debe aparecer, pero el administrador sí, ya que éste último tiene más peso que el usuario al realizar las operaciones necesarias para que la aplicación funcione.
+			</opcion>
+			<opcion>
+			Ninguno de los dos debería aparecer.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		¿Cuál de los siguientes requisitos es funcional?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Rendimiento
+			</opcion>
+			<opcion>
+			Consumo de recursos
+			</opcion>
+			<opcion>
+			Manejo de errores
+			</opcion>
+			<opcion>
+			Gestión de usuarios
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿De qué otra forma se puede expresar el símbolo de multiplicidad '*' en una relación de asociación de un diagrama de clases? 
+		</enunciado>
+		<opciones>
+			<opcion>
+			1..*
+			</opcion>
+			<opcion>
+			0..1.
+			</opcion>
+			<opcion>
+			0..*.   
+			</opcion>
+			<opcion>
+			0..0.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		¿Qué es una interfaz (definición tradicional)?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Un conjunto de operaciones que ofrecen un servicio coherente
+			</opcion>
+			<opcion>
+			Un conjunto de servicios
+			</opcion>
+			<opcion>
+			Representa una  unidad de código fuente  que encapsula el estado y comportamiento de una parte de la implementación.
+			</opcion>
+			<opcion>
+			Ninguna de las anteriores
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		c
+		</solucion>
+		<enunciado>
+		¿Cuál de las siguientes opciones es representada por el modelo del sistema?:
+		</enunciado>
+		<opciones>
+			<opcion>
+			Mundo real o "universo del discurso".
+			</opcion>
+			<opcion>
+			Recoge el vocabulario del dominio.
+			</opcion>
+			<opcion>
+			Vista conceptual del sistema: conceptos que debe manejar/implementar el sistema.
+			</opcion>
+			<opcion>
+			Implementación o "vista tecnológica".
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		¿Qué ocurre si no se cumple una precondición?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Indica un  error en el proveedor.
+			</opcion>
+			<opcion>
+			Indica un error en el cliente.
+			</opcion>
+			<opcion>
+			Omitir la comprobación de la postcondición.
+			</opcion>
+			<opcion>
+			El contrato debe ser cambiado.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		d
+		</solucion>
+		<enunciado>
+		¿Cuál es la correcta clasificación de requisitos de software?
+		</enunciado>
+		<opciones>
+			<opcion>
+			Requisitos funcionales
+			</opcion>
+			<opcion>
+			Requisitos Funcionales, Requisitos no funcionales
+			</opcion>
+			<opcion>
+			Requisitos Negativos,  Requisitos No Funcionales
+			</opcion>
+			<opcion>
+			Requisitos Negativos, Requisitos No Funcionales y Requisitos Funcionales
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		El plan del proyecto software es la culminación de la etapa de…
+		</enunciado>
+		<opciones>
+			<opcion>
+			Planificación.
+			</opcion>
+			<opcion>
+			Control.
+			</opcion>
+			<opcion>
+			Revisión.
+			</opcion>
+			<opcion>
+			Codificación.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		b
+		</solucion>
+		<enunciado>
+		Los requisitos de un proyecto software...
+		</enunciado>
+		<opciones>
+			<opcion>
+			Son fáciles de determinar en la fase de planificación inicial.
+			</opcion>
+			<opcion>
+			Ninguna de las opciones es correcta.
+			</opcion>
+			<opcion>
+			No especifican las capacidades que debe tener un producto para la solución del sistema.
+			</opcion>
+			<opcion>
+			Sirven para establecer el marco de referencia para el desarrollo del proyecto.
+			</opcion>
+		</opciones>
+	</pregunta>
+	<pregunta>
+		<solucion>
+		a
+		</solucion>
+		<enunciado>
+		Uno de los principales problemas para planificar correctamente es…
+		</enunciado>
+		<opciones>
+			<opcion>
+			La falta de información al principio del desarrollo
+			</opcion>
+			<opcion>
+			Ninguna de las opciones es correcta
+			</opcion>
+			<opcion>
+			La falta de información al final del desarrollo
+			</opcion>
+			<opcion>
+			La mala codificación			</opcion>
+		</opciones>
+	</pregunta>
+</preguntas>

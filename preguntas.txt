@@ -1,0 +1,498 @@
+a
+Un diagrama es la representación gráfica de un conjunto de elementos interconectados, una vista parcial de un modelo. ¿Cuál de estas opciones es correcta?
+Un modelo sólo es una colección de diagramas.
+Un modelo contiene especificaciones textuales esenciales.
+Un modelo puede contener elementos no representados en un diagrama.
+Ninguna de las anteriores.
+c
+¿Qué afirmación respecto a la redundancia es correcta?
+Es imposible detectar en revisiones de grupo.
+Aporta consistencia al texto.
+Su aparición puede provocar que sea necesario retrabajo.
+Ninguna de las anteriores.
+b
+La extensibilidad es un criterio para la selección de  una arquitectura. ¿Cuál de estas características NO corresponde a la extensibilidad?
+Requiere invertir tiempo en el diseño.
+Es fácil de coordinar con el criterio de simplicidad.
+Hace más complejo el diseño.
+Aporta mayor grado de abstracción.
+a
+¿Cuáles son todos los pasos por los que puede pasar un requisito? No hay paso para requisito modificado, pasan directamente al siguiente paso.
+Propuesto, Validado, Cancelado, Implementado, Verificado.
+Diseñado, Propuesto, Cancelado, Implementado, Verificado.
+Diseñado, Propuesto, Cancelado, Implementado, Terminado.
+Propuesto, Cancelado, Implementado, Verificado, Terminado.
+b
+La descomposición modular debe tener las siguientes características:
+Máxima cohesión y acoplamiento, diseño fácil para el cambio o la extensión y minimizar dependencias.
+Máxima cohesión y mínimo acoplamiento, diseño fácil para el cambio o la extensión y minimizar dependencias.
+Máxima cohesión y mínimo acoplamiento, diseño rígido para evitar imprecisiones y minimizar dependencias.
+Mínima cohesión y acoplamiento, diseño rígido para evitar imprecisiones y minimizar dependencias.
+c
+¿Cuáles son los tipos de requisitos del software? (Su clasificación).
+Requisitos del usuario y del software.
+Requisitos funcionales y no funcionales.
+Requisitos negativos, funcionales y no funcionales.
+Requisitos de interfaz, funcionales y no funcionales.
+b
+¿Cuál de los siguientes tipos de requisitos no forma parte de la clasificación de requisitos del software?
+Requisitos negativos.
+Requisitos positivos.
+Requisitos funcionales.
+Requisitos no funcionales.
+a
+¿Cuáles son los criterios para la selección de una arquitectura?
+Extensibilidad, Modificabilidad, Simplicidad, Eficiencia.
+Extensibilidad, Modificabilidad, Complejidad, Eficiencia.
+Extensibilidad, Modificabilidad, Simplicidad, Eficacia.
+Ninguna de las anteriores.
+c
+¿Cuál de las siguientes afirmaciones no está relacionada con el Modelado Conceptual?
+Es una vista gráfica de la información contenida en los requisitos.
+Representa atributos, operaciones y asociaciones entre clases.
+En él se representan todas las posibles funcionalidades del proyecto que representa.
+Podemos extraer información de la jerarquía de clases que contempla nuestro proyecto.
+c
+En relación a la decisión entre atributo y asociación, seleccione la respuesta correcta:
+Seleccionaría atributo, puesto que aporta propiedad al objeto.
+Seleccionaría asociación.
+Seleccionaría de entre atributo y asociación la opción que resultase en un modelo más visual.
+Seleccionaría ambas opciones para afianzar la información en el modelo.
+a
+En relación con la redacción del requisito, de las siguientes afirmaciones, diga cuál es verdadera.
+Los requisitos podrán atomizarse mediante las correspondientes herramientas especializadas.
+Se recomienda alternar entre las formas activa y pasiva para dotar de legibilidad a los requisitos.
+Es necesaria la sustitución por pronombres de manera reiterada para facilitar la comprensibilidad y evitar recargar los requisitos.
+Puesto que el requisito se traza previa implementación de la aplicación, no es posible el uso del imperativo en la redacción del mismo ya que hasta que la aplicación no se ha completado no se sabrá si se habrá cumplido o no.
+b
+En relación al modelado en UML, las asociaciones...
+Son siempre simétricas, y por tanto los roles que hay entre las clases son intercambiables.
+Son siempre asimétricas, ya que equivalen a pares ordenados, y por lo tanto los roles entre las clases no son intercambiables.
+Si son reflexivas, pueden ser simétricas.
+Las asociaciones asimétricas sólo pueden ser unidireccionales.
+c
+¿Cómo pueden ser los valores de los atributos en una clase?
+Fijos e inmutables.
+Inmutables.
+Fijos y variables.
+Variables.
+c
+¿Qué tipos de requisitos existen?
+Capacidad y funcionales.
+No funcionales.
+Capacidad y restricción.
+Ninguno de los anteriores.
+c
+¿Cuál es el objetivo de los requisitos de software?
+Ofrecer un entorno operacional.
+Planteamiento y modelado del problema.
+Refinamiento del problema y análisis de requisitos.
+Conseguir la perspectiva del producto.
+c
+¿Cómo se denominan también los requisitos "no funcionales"?
+De capacidad.
+De implementación.
+De restricción.
+Ninguna de las anteriores.
+b
+¿Cuál de estas opciones no es una propiedad deseable de los requisitos software?
+Tamaño adecuado.
+Estabilidad.
+Completitud.
+Claridad.
+a
+¿Para qué más son útiles (especialmente) las pre-condiciones y post-condiciones a parte de para documentar el diseño?
+Para indicar un error en el cliente.
+Para la depuración del software.
+Para indicar un error en el proveedor.
+Ninguna de las anteriores.
+c
+¿Cuál de estas vistas no corresponde al modelo de Philippe Kruchten?
+Vista lógica.
+Vista de proceso.
+Vista estática.
+Vista de desarrollo.
+a
+¿Qué formas distintas tienen un componente para relacionarse con una interfaz?
+Interface realization y Interface usage.
+Interface usage y Interface logic.
+Interface usage y Interface style.
+Interface realization y Interface wiring.
+d
+Las siglas CIM significan…
+Computer Intelligent Model.
+Computer Interface Model.
+Combination Intelligent Model.
+Computation Independent Model.
+c
+¿Cuál de estas propiedades NO  se corresponde con una especificación de requisitos?
+Consistente.
+Verificable.
+Inalterable.
+Clara y no ambigua.
+b
+¿Cuál de los siguientes métodos NO sirve para organizar los requisitos de software?
+Matriz de consistencia.
+Matriz de adyacencia.
+Matriz de trazabilidad.
+Anidamiento de requisitos
+b
+¿Qué es una interfaz en el contexto de la asignatura?
+Medio con que el usuario puede comunicarse con una máquina, un equipo o una computadora.
+Conjunto de operaciones que ofrecen un servicio coherente.
+Conexión física y funcional entre dos sistemas o dispositivos de cualquier tipo dando una comunicación entre distintos niveles.
+Conjunto de atributos y operaciones que ofrecen un servicio coherente.
+c
+¿Qué fases presenta la ingeniería de requisitos?
+Captura y especificación.
+Modelado y especificación.
+Captura y análisis.
+Modelado, captura y especificación.
+c
+Dado el siguiente requisito: "El usuario debe ser capaz de crear un nuevo contacto en la agenda". Especificar de qué tipo es:
+Requisito del sistema.
+Requisito no funcional.
+Requisito funcional.
+Requisito negativo.
+c
+Dado los siguientes requisitos, "El usuario debe ser capaz de crear un nuevo contacto en la agenda" y "El usuario debe ser capaz de borrar un contacto en la agenda". Decir si estos dos requisitos son:
+Conflictivos, entre ellos existen incongruencias.
+Ambiguos, estos requisitos no son lo suficientemente específicos.
+Consistentes entres sí, no presentan incoherencias, acoplamientos ni redundancias.
+Redundantes, ambas repiten información.
+c
+¿Cómo debería ser una especificación de requisitos?
+La especificación de requisitos no tiene que cumplir ningún criterio.
+Larga y con terminología técnica.
+Completa, consistente, correcta, modificable, verificable, trazable, clara y no ambigua.
+Con una presentación elegante.
+b
+¿Cuáles son los criterios clásicos para la selección de una arquitectura?
+Extensibilidad, rapidez, tecnología, simplicidad.
+Extensibilidad, modificabilidad, simplicidad, eficiencia.
+Extensibilidad, modificabilidad, tecnología, simplicidad.
+Ninguna de las anteriores.
+d
+¿Cuál de las siguientes es una vista del modelo de 4+1 vistas de Kruchten?
+Vista conceptual.
+Vista de desarrollo.
+Vista de ejecución.
+Todas las anteriores.
+b
+¿Qué representa el modelo conceptual?
+Mundo real.
+Vista conceptual del sistema, abarcando aspectos estáticos y dinámicos
+Universo del discurso
+Ninguna de las anteriores.
+d
+¿Qué tipo de requisitos hay?
+Funcionales.
+No funcionales.
+Funcionales y no funcionales.
+Funcionales, no funcionales y negativos.
+a
+Sobre las métricas de calidad, ¿Qué debemos medir?
+Propiedades deseables e indicadores medibles
+Indicadores analíticos y relacionales
+Propiedades deseables e indicadores analíticos.
+Indicadores morfológicos y léxicos.
+c
+Indique cuál de los siguientes requisitos está bien redactado.
+El administrador deberá guardar, borrar y modificar a cada usuario.
+El usuario debería escribir su correo electrónico dos veces.
+El administrador deberá ser capaz de borrar a un usuario del sistema.
+El usuario deberá acceder a la tabla de base de datos para guardar el contacto.
+a
+Indique la opción verdadera.
+La realización puede entenderse como una "generalización débil": se hereda la interfaz, pero no la implementación
+La generalización permite disminuir el nivel de abstracción.
+El problema de la realización es que aumenta la reutilización y la dependencia.
+La realización puede entenderse como una "generalización débil": se hereda la implementación, pero no la interfaz.
+b
+Indique cuál de las siguientes propiedades individuales de un requisito son deseables.
+Completitud y consistencia.
+Tamaño adecuado, claridad, comprobabilidad, condiciones de error.
+Automáticos, obligatorios y opcionales.
+Ninguna de las anteriores.
+a
+¿Cuál es el factor más importante de éxito en un proyecto?
+Los requisitos.
+Las pruebas.
+La programación.
+El diseño.
+d
+Suponga un documento de requisitos para el desarrollo de una página web desde cero. El cliente solicita que se respeten los estándares web (aunque no especifica cuáles). Si en dicho documento hay un requisito cuya descripción es "La página web debe respetar el estándar W3C de uso multimedia", ¿qué tipo de requisito será este?
+De usuario de capacidad.
+De usuario de restricción.
+De software funcional.
+De software no funcional.
+b
+¿Cuántos tipos de requisitos existen?
+Cuatro: negativos, funcionales, no funcionales, estructurados.
+Tres: negativos, funcionales, no funcionales.
+Dos: funcionales, no funcionales.
+Uno: funcionales
+c
+¿Quién es el cliente?
+El programador de la aplicación.
+El jefe de departamento.
+La persona que te contrata.
+Ninguna de las anteriores.
+c
+¿Cuál de las siguientes opciones no es un tipo de requisito del software?
+Requisito funcional.
+Requisito negativo.
+Requisito parcial.
+Requisito no funcional.
+b
+¿Qué representa el modelo conceptual?
+El mundo real o "universo del discurso".
+Vista conceptual del sistema: conceptos que debe implementar el sistema.
+La implementación o "vista tecnológica".
+Ninguna de las anteriores.
+b
+¿Cuál de de las siguientes respuestas se asocia a una especificación inteligente de requisitos?
+SMART (simple, medible, alineado, realista, limitado en tiempo).
+SMART (específico, medible, alineado, realista, limitado en tiempo).
+SMART (sencillo, monótono, alineado, realista, taxativo).
+CNART (concreto, necesario, alineado, realista, taxativo).
+b
+¿Qué es una asociación reflexiva?
+Aquella en la que los dos extremos de la asociación están unidos a distintas clases.
+Aquella en la que los dos extremos de la asociación están unidos a la misma clase.
+Aquella en la que los dos extremos de la asociación están unidos a dos instancias de dos clases distintas.
+Aquella en la que una segunda clase interactúa con una primera a través de una tercera que realiza la acción de reflexión.
+b
+¿Cuál de las siguientes afirmaciones es la correcta?
+Un sistema es una colección de modelos organizados para cumplir una finalidad concreta. Un sistema no puede estar dividido en subsistemas.
+Un modelo es una abstracción de un sistema, es decir, una simplificación (completa y consistente) del sistema real, que sirve para comprenderlo mejor.
+Un diagrama es la representación textual de un conjunto de elementos interconectados, una vista parcial de un sistema.
+Un modelo es la representación gráfica de un conjunto de elementos interconectados, una vista parcial de un diagrama.
+a
+La ingeniería del software es:
+La aplicación sistemática de conocimientos, métodos y experiencias científicas y tecnológicas al diseño, implementación, pruebas y documentación de software. 
+Es el desarrollo sistemático de los requisitos a través de un proceso iterativo y cooperativo en el que se analiza el problema.
+Una condición o capacidad que un usuario necesita.
+Ninguna de las anteriores.
+b
+La tabla de consistencia de requisitos de software, permite representar:
+Relación entre requisitos de software funcionales y no funcionales. 
+Conflictos, redundancias, acoplamientos e independencias.
+Trazabilidad de los requisitos de software.
+Relaciones entre los requisitos y el modelo del sistema 
+a
+Puede definirse UML como:
+Un lenguaje gráfico de modelado centrado en el campo de la ingeniería del software. 
+Un estándar que define las pautas a seguir en el proceso de ingeniería de requisitos.
+Un lenguaje de modelado que permite describir un producto software mediante diagramas, descripciones textuales y fragmentos de código.
+Todas las anteriores son ciertas.
+a
+Los requisitos de restricción (no funcionales) son:
+Restricciones impuestas sobre la manera en que el problema es resuelto o el objetivo es alcanzado.
+Funciones y operaciones requeridas para resolver un problema o alcanzar un objetivo.
+Restricciones requeridas para resolver un problema o objetivo.
+Ninguna de las anteriores.
+c
+¿Qué es un stakeholder?
+Es un potencial cliente de una empresa.
+Es un miembro del equipo de desarrollo encargado de validar los requisitos de usuario.
+Es una parte interesada considerada como un elemento esencial en la planificación estratégica de los negocios.
+Es una empresa encargada de generar un documento de requisitos de un proyecto.
+c
+Entre los criterios positivos a la hora de seleccionar una arquitectura están:
+Alto coste, extensibilidad y simplicidad.
+Eficiencia, rigidez y complejidad.
+Simplicidad, eficiencia y modificabilidad.
+Alto coste, rigidez y complejidad.
+a
+¿Cuál es el factor más importante de éxito en un proyecto?
+Los requisitos.
+Las pruebas.
+La programación.
+El diseño.
+b
+Redacción del requisito: 
+El modo verbal a emplear debe ser la pasiva.
+Se deben evitar las expresiones ambiguas.
+Se recomienda incluir términos que denoten diseño.
+Se recomienda hacer uso de pronombres.
+b
+Señale la respuesta correcta sobre la diferencia entre los modelos especificativo y descriptivo. 
+El modelo especificativo se utiliza para la ingeniería inversa (reverse engineering), mientras que el descriptivo se utiliza en la ingeniería hacia delante (forward engineering).
+El modelo especificativo se utiliza para anticipar o especificar el sistema de software a construir, mientras que el modelo descriptivo se utiliza para  describir algo que ya existe.
+Ambos son nombres equivalentes, hacen referencia a un mismo concepto.
+El modelo especificativo es igual al descriptivo, solo que con un mayor nivel de detalle.
+a
+¿Qué es una clase?
+Representación estructural de algo que existe puede ser físico o imaginario.
+Modelo conceptual de algo que no existe.
+Conjunto patrones que comparten el mismo objeto.
+Es una entidad relación de algo que existe puede ser físico o imaginario.
+b
+¿Qué es una instancia?
+Atributo de la clase.
+La variable de la clase.
+Ninguna de las anteriores.
+Cada objeto que pertenece a varias clases.
+c
+Antes de hacer un caso de uso es necesario:
+Saber las tareas de los actores involucrados en el dominio.
+Tratar de expresar lo que el dominio debe hacer.
+Tratar de entender los requerimientos del sistema Tratando de expresar lo que el sistema debe hacer.
+Ninguna de las anteriores.
+c
+¿Qué característica NO es imprescindible en la especificación de requisitos?
+Completa.
+Modificable.
+Ambigua.
+Verificable.
+a
+¿Cuál de las siguientes afirmaciones relativas a asociaciones reflexivas NO se cumple?
+Son simétricas.
+Los enlaces  pueden conectar dos instancias diferentes de la misma clase.
+Son recursivas.
+Los nombres de rol son obligatorios.
+d
+Seleccione la respuesta correcta:
+La arquitectura del software es la organización fundamental de un sistema encarnada en sus componentes, las relaciones entre ellos y con el entorno, y los principios que orientan su diseño y evolución.
+La arquitectura del software de un programa es la estructura que contienen componentes de software, las propiedades externamente visibles de dichos componentes y las relaciones entre ellos.
+Ninguna de las afirmaciones anteriores son correctas.
+Las dos afirmaciones son ciertas.
+b
+Elige la opción correcta:
+Requisito es una condición o capacidad que un usuario necesita y que debe poseer un sistema y tiene que tener una representación documentada de la condición o capacidad.
+Los podemos clasificar como funcionales, no funcionales y negativos.
+Las dos afirmaciones son falsas
+Las dos afirmaciones son verdades
+a                                                    
+En un diagrama la siguiente relación que significa A->B
+A depende de B
+B depende de A
+No existe relación
+En un diagrama no puede haber relaciones
+d
+¿Cuál de las siguientes afirmaciones es correcta respecto a la Ingeniería de Requisitos en el contexto del proyecto?
+Los requisitos no tienen valor contractual.
+Los requisitos son posteriores al estudio de viabilidad.
+La obtención de requisitos es independiente de la planificación del proyecto.
+Los requisitos pueden estar sujetos a normas de propiedad intelectual.
+b
+¿Qué caracteriza a los requisitos no funcionales?
+Se denominan no funcionales porque no requieren operacionalización.
+Cortan transversalmente a los requisitos funcionales.
+La medida de satisfacción es clara, por eso precisamente se pueden describir.
+Ninguna de las anteriores es cierta.
+c
+¿Cuál de las siguientes relaciones entre vistas es correcta?
+V. Lógica con V. de Proceso: descomponer en subsistemas de clases estrechamente relacionadas
+V. Lógica con V. de Desarrollo: identificar las clases que tendrán un hilo de control propio.
+V. de Proceso y V. de Desarrollo con V. Física: tener en cuenta los requisitos no funcionales de la vista física.
+V. de los casos de uso con V. Física: tener en cuenta los requisitos no funcionales de la vista física.
+c
+¿Cuáles son las propiedades deseables del modelo?
+Abstracto, predictivo, comprensible y barato.
+Comprensible, preciso, predictivo y caro.
+Comprensible, preciso, predictivo y barato.
+Abstracto, predictivo, comprensible y caro.
+a
+¿Cuáles son los requisitos clásicos para la selección de una arquitectura?:
+extensibilidad, modificabilidad, simplicidad y eficiencia.
+productividad, modificabilidad, simplicidad y usabilidad.
+extensibilidad, eficiencia, modificabilidad y complejidad.
+productividad, modificabilidad, complejidad y eficiencia.
+a
+Marca la opción verdadera:
+La audiencia de los Requisitos del Software es principalmente: el desarrollador
+Las fuentes de los Requisitos del Usuario son: usuario/cliente y analista
+El objetivo principal de los Requisitos del Software es el planteamiento del problema.
+Un objetivo de los Requisitos del Usuario es el análisis de los requisitos.
+b
+Dentro del modelo de 4+1 vistas (Philippe Kruchten) la relación entre la vista lógica y la vista de desarrollo trata de:
+Identificar las clases que tendrán un hilo de control propio.
+Minimizar dependencias.
+Maximizar dependencias.
+Tener en cuenta los requisitos no funcionales de la vista física.
+d
+Sobre el uso de pre- y post- condiciones, señale la respuesta INCORRECTA:
+Nos indican el efecto que puede percibir el cliente, siendo puramente declarativas.
+Tienen especial utilidad en la depuración del software.
+En ciertas circunstancias se puede omitir la comprobación de las postcondiciones.
+Si no se cumple una precondición indica un error en el proveedor.
+c
+El prototipado nos permite:
+Añadir todas las funcionalidades al sistema.
+Implementar una primera versión completa, segura y fiable del proyecto.
+Extraer requisitos, ensayar soluciones y eliminar partes arriesgadas.
+Reducir los costes, siendo una parte obligatoria en todo proyecto de software.
+a
+En el modelo conceptual, la clase "lista de la compra" está relacionada con otra clase "artículo". Sabiendo que la "lista de la compra" está formada por artículos y que si borramos la lista, siguen existiendo los artículos.¿ Qué tipo de relación mantienen estas 2 clases?
+Agregación.
+Composición.
+Herencia.
+Asociación.
+c
+Un buen documento de requisitos debe ser:
+Completo, correcto y adecuado.
+Completo, bonito  y consistente.
+Consistente, completo y correcto.
+Legible, fácil y estructurado.
+b
+Tenemos una aplicación, la cual por debajo existe una base de datos donde se almacena la información. Esta base de datos está controlada por personal de mantenimiento desde un programa gestor de base de datos externo a esta aplicación. Si tenemos que hacer un documento de requisitos, ¿Hay que tener tanto al administrador como al usuario normal en cuenta a la hora de realizar el documento?:
+Hay que tener en cuenta a ambos, y deben aparecer sus correspondientes clases en los diagramas del documento.
+El usuario si debe aparecer, pero el administrador no, ya que el usuario es un actor de la aplicación, y el administrador al usar un programa exterior no.
+El usuario no debe aparecer, pero el administrador sí, ya que éste último tiene más peso que el usuario al realizar las operaciones necesarias para que la aplicación funcione.
+Ninguno de los dos debería aparecer.
+d
+¿Cuál de los siguientes requisitos es funcional?
+Rendimiento
+Consumo de recursos
+Manejo de errores
+Gestión de usuarios
+c
+¿De qué otra forma se puede expresar el símbolo de multiplicidad '*' en una relación de asociación de un diagrama de clases? 
+1..*
+0..1.
+0..*.   
+0..0.
+a
+¿Qué es una interfaz (definición tradicional)?
+Un conjunto de operaciones que ofrecen un servicio coherente
+Un conjunto de servicios
+Representa una  unidad de código fuente  que encapsula el estado y comportamiento de una parte de la implementación.
+Ninguna de las anteriores
+c
+¿Cuál de las siguientes opciones es representada por el modelo del sistema?:
+Mundo real o "universo del discurso".
+Recoge el vocabulario del dominio.
+Vista conceptual del sistema: conceptos que debe manejar/implementar el sistema.
+Implementación o "vista tecnológica".
+b
+¿Qué ocurre si no se cumple una precondición?
+Indica un  error en el proveedor.
+Indica un error en el cliente.
+Omitir la comprobación de la postcondición.
+El contrato debe ser cambiado.
+d
+¿Cuál es la correcta clasificación de requisitos de software?
+Requisitos funcionales
+Requisitos Funcionales, Requisitos no funcionales
+Requisitos Negativos,  Requisitos No Funcionales
+Requisitos Negativos, Requisitos No Funcionales y Requisitos Funcionales
+a
+El plan del proyecto software es la culminación de la etapa de…
+Planificación.
+Control.
+Revisión.
+Codificación.
+b
+Los requisitos de un proyecto software...
+Son fáciles de determinar en la fase de planificación inicial.
+Ninguna de las opciones es correcta.
+No especifican las capacidades que debe tener un producto para la solución del sistema.
+Sirven para establecer el marco de referencia para el desarrollo del proyecto.
+a
+Uno de los principales problemas para planificar correctamente es…
+La falta de información al principio del desarrollo
+Ninguna de las opciones es correcta
+La falta de información al final del desarrollo
+La mala codificación
